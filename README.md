@@ -16,7 +16,7 @@ Dynamic social links
 # Screenshots
 
 Header + Profile Card UI
-![image alt](https://github.com/happypatel200/Profile-Card/blob/9a169c09056deb8f7ad98083d59f21c8f5d22a9a/s.png)
+![image alt](https://github.com/happypatel200/Profile-Card/blob/a90d13be72c1187219a5531d900706d262ec79d1/profile%20cards.png)
 
 # Functionalities
 
